@@ -1,7 +1,7 @@
 package demotwo;
 
-public class GitDemoTwo {
+public class GitDemoThree {
 	public static void main(String[] args) {
-		System.out.println("DemoTwo");
+		System.out.println("DemoThree");
 	}
 }
